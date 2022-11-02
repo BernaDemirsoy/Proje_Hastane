@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Proje_Hastane, Configuration: Debug Any CPU ------
+1>  Proje_Hastane -> D:\C#\Murat Yücedağ-UDEMY\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
